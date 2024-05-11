@@ -1,6 +1,10 @@
 Lambardo
-Adriana
+Cheong
 Tessa
 Hardin
 Molly
+<<<<<<< HEAD
 Brandon
+=======
+Luca
+>>>>>>> correction
